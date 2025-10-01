@@ -1,4 +1,4 @@
-export default function SideBar(props) {
+export default function Sidebar(props) {
     const { handleToggleModal, data } = props
     return (
         <div className="sidebar">
